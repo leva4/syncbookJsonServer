@@ -115,6 +115,20 @@
         },
         "startTime":"09:00",
         "endTime":"18:00"
-    }
+    },
+
+    "serviceCompanies":[{
+        "id" : "1",
+        "name":"Wind Rose",
+        "logo":""
+    },{
+        "id" : "2",
+        "name":"Avantur d.o.o",
+        "logo":""
+    },{
+        "id" : "3",
+        "name":"JOKO BOATS",
+        "logo":""
+    }]
 
 }
