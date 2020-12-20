@@ -1,4 +1,5 @@
-[{
+{
+    "allBoats":[{
         "id":"500",
         "serviceCompanyId":"1",
         "serviceCompanyName":"Wind Rose",
@@ -73,4 +74,47 @@
             "waterTank": "0L",
             "maxPerson": "7"
         }
-}]
+    }],
+    
+
+    "availableCategories": ["Boats"],
+
+    "boat": {
+        "id":"500",
+        "serviceCompanyId":"1",
+        "serviceCompanyName": "",
+        "name":"Quicksilver Activ 555",
+        "image":"https://www.quicksilver-boats.com/media/383245/555-open-running-1063_hull-color_f.jpg",
+        "gallery":["",""],
+        "description":"",
+        "boatTechnicalDetails":{
+            "length":"5.50m",
+            "width": "2.30m",
+            "engineManufacturer": "Mercury",
+            "engine": "100HP",
+            "fuelTank": "120L",
+            "waterTank": "50L",
+            "maxPerson": "6"
+        },
+        "equipment": "GPS, RADIO, BIMINI TOP, FULL SAFETY EQUIPMENT, SHOWER",
+        "ownerNote": "",
+        "bookingConstraints": {
+            "minDays": "1",
+            "minDaysBeforeReservation": "0",
+            "maxDays": "999",
+            "halfDayReservation": {
+                "priceReduction": "20%",
+                "showOptionOnlyDayBefore" : "true",
+                "times": [{
+                    "startTime": "09:00", "endTime": "13:00"
+                    },{
+                    "startTime":"14:00", "endTime":"18:00"
+                    }
+                ]
+            }
+        },
+        "startTime":"09:00",
+        "endTime":"18:00"
+    }
+
+}
