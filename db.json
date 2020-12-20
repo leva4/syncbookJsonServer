@@ -77,12 +77,12 @@
     }],
     
 
-    "availableCategories": ["Boats"],
+    "availableCategories": ["Boats","Excursions"],
 
-    "boat": {
+    "boatDetails": {
         "id":"500",
         "serviceCompanyId":"1",
-        "serviceCompanyName": "",
+        "serviceCompanyName": "Wind Rose",
         "name":"Quicksilver Activ 555",
         "image":"https://www.quicksilver-boats.com/media/383245/555-open-running-1063_hull-color_f.jpg",
         "gallery":["",""],
