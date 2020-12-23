@@ -82,7 +82,7 @@
     },
     
 
-    "bookers/categories":{ 
+    "bookers_categories":{ 
          "bookableCategories":  ["Boats","Excursions"]
     },
 
