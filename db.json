@@ -1,80 +1,83 @@
 {
-    "allBoats":[{
-        "id":"500",
-        "serviceCompanyId":"1",
-        "serviceCompanyName":"Wind Rose",
-        "name":"Quicksilver Activ 555",
-        "image":"https://www.quicksilver-boats.com/media/383245/555-open-running-1063_hull-color_f.jpg",
-        "boatTechnicalDetails":{
-            "length":"5.50m",
-            "width": "2.30m",
-            "engineManufacturer": "Mercury",
-            "engine": "100HP",
-            "fuelTank": "120L",
-            "waterTank": "50L",
-            "maxPerson": "6"
-        }
-    },{
-        "id":"510",
-        "serviceCompanyId":"1",
-        "serviceCompanyName":"Wind Rose",
-        "name":"Maestral 560",
-        "image":"https://www.burzanautike.com/upload/katalog/2015-6-11_maestral_560(8).JPG",
-        "boatTechnicalDetails":{
-            "length":"5.60m",
-            "width": "2.48m",
-            "engineManufacturer": "Mercury",
-            "engine": "115HP",
-            "fuelTank": "150L",
-            "waterTank": "90L",
-            "maxPerson": "8"
-        }
-    },{
-        "id":"502",
-        "serviceCompanyId":"3",
-        "serviceCompanyName":"JOKO BOATS",
-        "name":"Quicksilver Activ 605 sundeck",
-        "image":"https://www.quicksilver-boats.com/media/384031/quicksilverfiberglass_605-1sundeck_7_full.jpg",
-        "boatTechnicalDetails":{
-            "length":"6.20m",
-            "width": "2.55m",
-            "engineManufacturer": "Mercury",
-            "engine": "150HP",
-            "fuelTank": "150L",
-            "waterTank": "50L",
-            "maxPerson": "7"
-        }
-    },{
-        "id":"549",
-        "serviceCompanyId":"2",
-        "serviceCompanyName":"Avantur d.o.o",
-        "name":"HM 22 FLY",
-        "image":"https://www.una.me/wp-content/uploads/2019/09/insidijas-600x338.jpg",
-        "boatTechnicalDetails":{
-            "length":"6.35m",
-            "width": "2.35m",
-            "engineManufacturer": "Honda",
-            "engine": "150HP",
-            "fuelTank": "110L",
-            "waterTank": "60L",
-            "maxPerson": "8"
-        }
-    },{
-        "id":"551",
-        "serviceCompanyId":"2",
-        "serviceCompanyName":"Avantur d.o.o",
-        "name":"Quicksilver Activ 505",
-        "image":"https://www.quicksilver-boats.com/media/383959/quicksilverfiberglass_505-1open_14_full.jpg",
-        "boatTechnicalDetails":{
-            "length":"5.07m",
-            "width": "2.12m",
-            "engineManufacturer": "Mercury",
-            "engine": "60HP",
-            "fuelTank": "70L",
-            "waterTank": "0L",
-            "maxPerson": "7"
-        }
-    }],
+    "AllListingsResult":{
+        "next_offset":"5",
+        "listings":[{
+            "id":"500",
+            "serviceCompanyId":"1",
+            "serviceCompanyName":"Wind Rose",
+            "name":"Quicksilver Activ 555",
+            "image":"https://www.quicksilver-boats.com/media/383245/555-open-running-1063_hull-color_f.jpg",
+            "boatTechnicalDetails":{
+                "length":"5.50m",
+                "width": "2.30m",
+                "engineManufacturer": "Mercury",
+                "engine": "100HP",
+                "fuelTank": "120L",
+                "waterTank": "50L",
+                "maxPerson": "6"
+            }
+        },{
+            "id":"510",
+            "serviceCompanyId":"1",
+            "serviceCompanyName":"Wind Rose",
+            "name":"Maestral 560",
+            "image":"https://www.burzanautike.com/upload/katalog/2015-6-11_maestral_560(8).JPG",
+            "boatTechnicalDetails":{
+                "length":"5.60m",
+                "width": "2.48m",
+                "engineManufacturer": "Mercury",
+                "engine": "115HP",
+                "fuelTank": "150L",
+                "waterTank": "90L",
+                "maxPerson": "8"
+            }
+        },{
+            "id":"502",
+            "serviceCompanyId":"3",
+            "serviceCompanyName":"JOKO BOATS",
+            "name":"Quicksilver Activ 605 sundeck",
+            "image":"https://www.quicksilver-boats.com/media/384031/quicksilverfiberglass_605-1sundeck_7_full.jpg",
+            "boatTechnicalDetails":{
+                "length":"6.20m",
+                "width": "2.55m",
+                "engineManufacturer": "Mercury",
+                "engine": "150HP",
+                "fuelTank": "150L",
+                "waterTank": "50L",
+                "maxPerson": "7"
+            }
+        },{
+            "id":"549",
+            "serviceCompanyId":"2",
+            "serviceCompanyName":"Avantur d.o.o",
+            "name":"HM 22 FLY",
+            "image":"https://www.una.me/wp-content/uploads/2019/09/insidijas-600x338.jpg",
+            "boatTechnicalDetails":{
+                "length":"6.35m",
+                "width": "2.35m",
+                "engineManufacturer": "Honda",
+                "engine": "150HP",
+                "fuelTank": "110L",
+                "waterTank": "60L",
+                "maxPerson": "8"
+            }
+        },{
+            "id":"551",
+            "serviceCompanyId":"2",
+            "serviceCompanyName":"Avantur d.o.o",
+            "name":"Quicksilver Activ 505",
+            "image":"https://www.quicksilver-boats.com/media/383959/quicksilverfiberglass_505-1open_14_full.jpg",
+            "boatTechnicalDetails":{
+                "length":"5.07m",
+                "width": "2.12m",
+                "engineManufacturer": "Mercury",
+                "engine": "60HP",
+                "fuelTank": "70L",
+                "waterTank": "0L",
+                "maxPerson": "7"
+            }
+        }]
+    },
     
 
     "availableCategories": ["Boats","Excursions"],
