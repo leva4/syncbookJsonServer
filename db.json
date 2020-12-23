@@ -1,8 +1,8 @@
 {
     "allBoats":{
-        "AllListingsResult":{
-            "next_offset":"5",
-            "listings":[{
+        "AllBoatsResult":{
+            "nextOffset":"5",
+            "boats":[{
                 "id":"500",
                 "serviceCompanyId":"1",
                 "serviceCompanyName":"Wind Rose",
@@ -82,7 +82,9 @@
     },
     
 
-    "availableCategories": ["Boats","Excursions"],
+    "bookers/categories":{ 
+         "bookableCategories":  ["Boats","Excursions"]
+    },
 
     "boatDetails": {
         "id":"500",
