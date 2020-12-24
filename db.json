@@ -143,8 +143,7 @@
             "nextOffset":"5",
             "reservations":[
                 {
-                    "listingType":"Boat",
-                    "data":{
+                    "boat":{
                         "id":"1000",
                         "listingId":"501",
                         "listingName":"Maestral 560",
@@ -158,8 +157,7 @@
                         "canceledAt":""
                     }
                 },{
-                    "listingType":"Boat",
-                    "data":{
+                    "boat":{
                         "id":"1101",
                         "listingId":"551",
                         "listingName":"uicksilver Activ 505",
@@ -188,8 +186,7 @@
                         "canceledAt":""
                     }
                 },{
-                    "listingType":"Boat",
-                    "data":{
+                    "boat":{
                         "id":"1411",
                         "listingId":"502",
                         "listingName":"Quicksilver Activ 605 sundeck",
