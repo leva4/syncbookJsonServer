@@ -171,8 +171,7 @@
                         "canceledAt":""
                     }
                 },{
-                    "listingType":"Boat",
-                    "data":{
+                    "boat":{
                         "id":"1321",
                         "listingId":"501",
                         "listingName":"Maestral 560",
