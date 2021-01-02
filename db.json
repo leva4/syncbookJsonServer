@@ -138,6 +138,54 @@
         "logo":""
     }],
 
+    "activity":[{
+        "id":"1000",
+        "listingType":"",
+        "listingName":"501",
+        "bookerName":"",
+        "reservationStatus":"Reserved",
+        "startDate":"",
+        "endDate":"",
+        "totalPrice":"",
+        "createdAt":"",
+        "canceledAt":""
+    },{
+        "id":"1000",
+        "listingType":"",
+        "listingName":"501",
+        "bookerName":"",
+        "reservationStatus":"Reserved",
+        "startDate":"",
+        "endDate":"",
+        "totalPrice":"",
+        "createdAt":"",
+        "canceledAt":""
+    },{
+        "id":"1000",
+        "listingType":"",
+        "listingName":"501",
+        "bookerName":"",
+        "reservationStatus":"Reserved",
+        "startDate":"",
+        "endDate":"",
+        "totalPrice":"",
+        "createdAt":"",
+        "canceledAt":""
+    },{
+        "id":"1000",
+        "listingType":"",
+        "listingName":"501",
+        "bookerName":"",
+        "reservationStatus":"Reserved",
+        "startDate":"",
+        "endDate":"",
+        "totalPrice":"",
+        "createdAt":"",
+        "canceledAt":""
+    }]
+    ,
+
+
     "bookerReservations":{
         "allReservationsResult":{
             "nextOffset":"5",
@@ -160,7 +208,7 @@
                     "boat":{
                         "id":"1101",
                         "listingId":"551",
-                        "listingName":"uicksilver Activ 505",
+                        "listingName":"Quicksilver Activ 505",
                         "listingCompany":"Avantur doo",
                         "person":"4",
                         "reservationStatus":"Reserved",
