@@ -138,54 +138,6 @@
         "logo":""
     }],
 
-    "activity":[{
-        "id":"1000",
-        "listingType":"",
-        "listingName":"501",
-        "bookerName":"",
-        "reservationStatus":"Reserved",
-        "startDate":"",
-        "endDate":"",
-        "totalPrice":"",
-        "createdAt":"",
-        "canceledAt":""
-    },{
-        "id":"1000",
-        "listingType":"",
-        "listingName":"501",
-        "bookerName":"",
-        "reservationStatus":"Reserved",
-        "startDate":"",
-        "endDate":"",
-        "totalPrice":"",
-        "createdAt":"",
-        "canceledAt":""
-    },{
-        "id":"1000",
-        "listingType":"",
-        "listingName":"501",
-        "bookerName":"",
-        "reservationStatus":"Reserved",
-        "startDate":"",
-        "endDate":"",
-        "totalPrice":"",
-        "createdAt":"",
-        "canceledAt":""
-    },{
-        "id":"1000",
-        "listingType":"",
-        "listingName":"501",
-        "bookerName":"",
-        "reservationStatus":"Reserved",
-        "startDate":"",
-        "endDate":"",
-        "totalPrice":"",
-        "createdAt":"",
-        "canceledAt":""
-    }]
-    ,
-
-
     "bookerReservations":{
         "allReservationsResult":{
             "nextOffset":"5",
